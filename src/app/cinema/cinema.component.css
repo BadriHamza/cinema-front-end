@@ -1,0 +1,11 @@
+.clickable{
+  cursor: pointer;
+}
+img {
+  max-width: 200%;
+  height: auto;
+}
+.ticket{
+  margin: 5px;
+}
+
